@@ -1,5 +1,5 @@
 # Hall-Ticket-Genration-with-QR-code
-This project is created for academic use, for creating secure hall ticket verification and creation. It has 3 modules 1. Student,college,syllabus,test CRUD opration. 2. application verification. 3. Generate QR code
+This project is created for academic use, for creating secure hall ticket verification and creation. It has 3 modules 1. Student,college,syllabus,test CRUD opration. 2. application verification. 3. Generate QR code. Project is created using Spring boot,Java, HTML, CSS, JS, JasperSoft(report generation),etc.
 # Home Page
 # ![image](https://github.com/saurabhborkar22/Hall-Ticket-Genration-with-QR-code/assets/117628848/e72afe88-89c1-4d9f-bd78-b89740f07ba7)
 # ![image](https://github.com/saurabhborkar22/Hall-Ticket-Genration-with-QR-code/assets/117628848/f9e74ee4-2f3d-4c62-8b69-72c35d2af8af)
